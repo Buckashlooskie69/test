@@ -1,5 +1,3 @@
-workflows:
-  hello-world:
-    name: Hello world workflow
-    scripts:
-        - echo "Hello World!"
+git add codemagic.yaml
+git commit -m 'add first workflow'
+git push
